@@ -1,0 +1,10 @@
+p {
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+  background-color: aqua;
+}
+
+p {
+  box-shadow: 10px, 10px, 10px, black;
+}

@@ -1,0 +1,14 @@
+p {
+  background-color: darkviolet;
+}
+
+p {
+  width: 200px;
+  height: 200;
+  padding: 10px;
+  border: 3px, rgb(rgb(75, 37, 37), rgb(8, 27, 8), rgb(9, 9, 73)), solid;
+  border-radius: 20px;
+  margin: 70px;
+  background-color: crimson;
+  color: white;
+}

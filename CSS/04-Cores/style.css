@@ -1,0 +1,15 @@
+h2 {
+  color: blueviolet;
+}
+
+h3 {
+  color: rgb(red, green, blue);
+}
+
+h4 {
+  color: rgba(red, green, blue, alpha);
+}
+
+h5 {
+  color: #00008b;
+}
