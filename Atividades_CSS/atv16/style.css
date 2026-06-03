@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    
+
+}
+
+h1{
+    color: gray;
+}
+
+h2{
+    color: blue;
+}
+
+p{
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 0px;
+    text-decoration: none;
+
+}
+
+img{
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin:0px auto;
+    display: block;
+    
+    
+}

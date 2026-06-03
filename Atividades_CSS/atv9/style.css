@@ -1,0 +1,6 @@
+.borderbox {
+  padding: 10px;
+  margin: 10px;
+  border: 10px solid red;
+  box-sizing: border-box;
+}

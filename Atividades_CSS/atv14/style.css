@@ -1,0 +1,13 @@
+a {
+    background-color: lightblue;
+    color: black; 
+    text-decoration: none; 
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+a:hover {
+    color: rgb(17, 2, 151); 
+    text-decoration: underline; 
+}

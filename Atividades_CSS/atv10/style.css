@@ -1,0 +1,15 @@
+div {
+  display: inline-block;
+  background-color: aqua;
+  color: blueviolet;
+  padding: 20px;
+  margin: 20px;
+}
+
+.cont2 {
+  padding: 20px;
+  margin: auto;
+  display: inline-block;
+  background-color: blue;
+  color: white;
+}
