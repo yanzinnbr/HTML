@@ -1,0 +1,79 @@
+.alinhamento-esquerda{
+    text-align: left;
+}
+
+.alinhamento-direita{
+    text-align: right;
+}
+.alinhamento-centro{
+    text-align: center;
+}
+
+.alinhamento-justificado{
+    text-align: justify;
+}
+
+.texto-maiusculo{
+    text-transform: capitalize;
+}
+
+.texto-minusculo{
+    text-transform: lowercase;
+}
+
+.pri-maiusculo{
+    text-transform: uppercase;
+}
+
+.sublinhado
+{
+    text-decoration: underline;
+}
+ 
+.techado
+{
+    text-decoration: line-through;
+}  
+ 
+.link
+{
+    text-decoration: none;
+}
+ 
+.link:hover
+{
+    text-decoration: underline;
+}
+ 
+.espacamento
+{
+   line-height: 60px;
+   letter-spacing: 5px;
+   word-spacing: 30px;
+}
+ 
+.sombra
+{
+    text-shadow: 2px 2px 5px red;
+}
+
+.fonte{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fonte-externa{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tamanho{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.expessura{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.estilo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+

@@ -1,0 +1,38 @@
+
+/*Importante*/
+p{
+    background-color: lightgray !important;
+}
+
+
+
+
+
+.conteiner-cascata{
+
+    background-color: lightblue;
+
+}
+
+.conteiner-cascata{
+    background-color: lightgreen;
+}
+
+.conteiner-cascata{
+    background-color: lightcoral;
+}
+
+/*Especificidade*/
+
+#id-paragrafo{
+    background-color: lightpink;
+}
+.classe-paragrafo{
+    background-color: lightyellow;
+}
+
+
+p{
+    background-color:burlywood;
+    
+}

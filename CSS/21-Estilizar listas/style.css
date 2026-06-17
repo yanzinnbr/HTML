@@ -1,0 +1,13 @@
+ul{
+    list-style: square;
+    list-style: disc;
+    list-style: circle;
+
+}
+
+ol{
+    list-style: upper-roman;
+    list-style: lower-roman;
+    list-style: upper-alpha;
+    list-style: lower-alpha;
+}
