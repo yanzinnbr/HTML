@@ -1,8 +1,24 @@
-.bg{
-    background-color: aquamarine;
-    background-image: url(/HTML/CSS/22-Background/pngtree-abstract-light-pink-and-purple-background-image_15685363.jpg);
+.banner{
+  padding: 100px;
+  color: azure;
+  text-align: center;
+  background: linear-gradient(to right, #000a54, #950abc);
+}
+
+.secao{
+    height: 300px;
+    padding:50px;
+    color:aliceblue;
+    background-image: url(../22-Background/pngtree-abstract-light-pink-and-purple-background-image_15685363.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: scroll;
-    
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.card{
+    padding: 100px;
+    color: white;
+    text-align: center;
+    background: linear-gradient(45deg, #000a57 0%, #0abc 20%, #950abc 100px);
 }

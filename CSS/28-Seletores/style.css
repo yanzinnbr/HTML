@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section p{
+    color: blueviolet;
+}
+
+ul > li{
+    color:rgb(45, 54, 51);
+}
+
+h2, h3{
+    background-color: blue;
+}
+
+.card{
+    background-color: aqua;
+}
+.card.destaque{
+    color:brown
+}
+
+h2 + p{
+    color:crimson
+}
+
+/*Estiliza todos despois do elemento*/
+
+h2 ~ p{
+    color: darkmagenta;
+}
+

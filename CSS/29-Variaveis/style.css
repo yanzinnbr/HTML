@@ -1,0 +1,34 @@
+/*campo das variaveis*/
+root{
+--cor-pricipal:#f0f;
+--cor-secundaria:#441414;
+--espacamento: 10px;
+--tamanho-fonte-texto: 24px;
+--fonte-principal: Arial,Helvetica, sans-serif;
+
+}
+
+
+button{
+    color:var(--cor-secundaria);
+    background-color: var(--cor-pricipal);
+    padding: var(--espacamento);
+    letter-spacing: var(--tamanho-fonte-texto);
+
+}
+p{
+    color: var(--cor-pricipal);
+    background-color: var(--cor-secundaria);
+
+    margin: var(--espacamento);
+    font-family: var(--fonte-principal);
+    font-size: var(--tamanho-fonte-texto);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
