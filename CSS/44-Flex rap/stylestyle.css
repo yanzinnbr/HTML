@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*Conteiner principal */
+
+.conteiner{
+
+    display: flex;
+    max-width: 300px;
+    margin: 5px;
+    padding: 10px;
+    background-color: navy;
+    color: aliceblue;
+
+}
+
+
+/*Caixa publica dentro do container principal*/
+.item{
+
+background-color: coral;
+color: white;
+padding: 10px;
+text-align: center;
+margin: 10px;
+
+}
+
+
+.nowrap{
+    flex-wrap: nowrap;
+
+}
+
+
+.wrap{
+    flex-wrap: wrap;
+
+}
+
+
+.wrap-reverse{
+    flex-wrap: wrap-reverse;
+
+}
+
+
