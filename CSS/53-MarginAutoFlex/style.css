@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Conteiner principal */
+
+.linha{
+
+display: flex;
+max-width: 500px;
+margin: 5px;
+padding: 10px;
+background-color: navy;
+}
+
+
+/*Caixa publica dentro do container principal*/
+.item{
+background-color: coral;
+color: white;
+padding: 10px;
+text-align: center;
+margin: 5px;
+}
+
+.coluna{
+    display: flex;
+width: 200px;
+margin: 5px;
+padding: 10px;
+background-color: navy;
+flex-direction: column;
+height: 300px;
+}
+
+
+.ml-auto{
+    margin-left: auto;
+}
+
+.mr-auto{
+    margin-right:auto ;
+
+}
+
+.mb-auto{
+margin-bottom: auto;
+}
+
+.mt-auto{
+    margin-top: auto;
+
+}
+

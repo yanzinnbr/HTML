@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Conteiner principal */
+
+.conteiner{
+
+display: flex;
+max-width: 500px;
+margin: 5px;
+padding: 10px;
+background-color: navy;
+}
+
+
+
+/*Caixa publica dentro do container principal*/
+.item{
+
+background-color: coral;
+color: white;
+padding: 10px;
+text-align: center;
+height: 30px;
+}
+
+
+
+
+
+
+.flex-1{
+
+ flex: 1;
+}
+
+.flex{
+    flex: 1 1 auto;
+
+}
+
+.flex-fixo{
+    flex: 0 0 200px;
+
+}
+
+.flex-completo{
+
+    flex: 1 1 250px;
+}
